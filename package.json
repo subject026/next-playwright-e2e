@@ -8,6 +8,7 @@
     "postinstall": "prisma generate",
     "lint": "next lint",
     "start": "next start",
+    "playwright": "playwright",
     "test": "playwright test",
     "test:report": "playwright show-report"
   },
